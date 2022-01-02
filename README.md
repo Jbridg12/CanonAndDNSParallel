@@ -6,7 +6,9 @@ multiplication. Parallel implementation is done using MPI.
 Navigate to the directory and run the shell scripts.
 
 > ./dns.sh
+> 
 or
+
 > ./canon.sh
 
 Josh Bridges
